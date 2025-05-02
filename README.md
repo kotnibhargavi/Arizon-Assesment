@@ -1,6 +1,7 @@
 # Mellow E-commerce Frontend
 
 A beautiful, responsive e-commerce storefront built with React, TypeScript, and Tailwind CSS. This application demonstrates modern frontend practices for building an online shopping experience.
+## LIVE DEMO :  [Arizon Assessment](https://arizon-assesment.onrender.com/)
 
 ## Features
 
